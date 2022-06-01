@@ -1,0 +1,35 @@
+.main {
+  background-color: orange;
+}
+
+.title {
+  background-color: aquamarine;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+
+.menu {
+  color: purple;
+}
+
+a {
+  color: red;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+h2 {
+  color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingredients,
+.steps,
+p {
+  font-size: 26px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
